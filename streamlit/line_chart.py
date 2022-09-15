@@ -3,7 +3,7 @@ import numpy as np
 import time
 import pandas as pd
 
-st.title('App cookbook')
+st.title('App Line Chart')
 
 # insert elements out of order================
 st.text('This will appear first')
